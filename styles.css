@@ -46,10 +46,7 @@ p {
 
 
 }
-img{
-  width:20%;
-  height:20%;
-}
+
 .Details{
   text-align: left;
 }
@@ -95,42 +92,43 @@ padding: 50px 0 20px;
 
 }
 
-.top-cloud {
-  position: absolute;
-  right: 200px;
-  top: 50px;
-  width: 10%;
-  height: 15%;
-}
 
-.myimage{
+
+.Tosca{
+  /* width: 60%; */
+  float: right;
   width: 30%;
   height: 10%;
 }
-.Tosca{
-  /* width: 60%; */
-  float: left;
-  width: 30%;
-  height: 30%;
-}
-.ToscaText{
-  padding-left: 100px;
+
+
+.SeleniumText{
+  font-size: 90%
 }
 .myimage{
   /* width: 60%; */
+  /* float: left; */
+  width: 10%;
+  height: 10%;
+  /* margin-left: 350px; */
+}
+.Selenium{
   width: 30%;
   height: 30%;
+  float: left;
 }
-.SeeTestAppium{
-  width: 30%;
-  height: 30%;
-  float: right;
+.ToscaText{
+  font-size: 90%
 }
-.WebDesign{
+
+.TMText{
+  font-size: 90%
+}
+.TM{
   /* width: 60%; */
   float: left;
-  width: 30%;
-  height: 30%;
+  width: 35%;
+  height: 40%;
 }
 .ServiceNow{
   float: right;
