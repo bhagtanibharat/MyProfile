@@ -18,7 +18,7 @@ h1 {
 }
 h2{
 
-  font-size: 40%
+  font-size: 30%
   /* color: #0b1b1b */
   color: #112929;
 }
@@ -57,6 +57,7 @@ p {
   align-items: center;
   /* font-family: 'Montserrat', sans-serif; */
   font-family: 'Open Sans';
+  font-size: 90%;
 
 
   color: #112929;
@@ -119,7 +120,7 @@ padding: 20px 0 0;
 
 
 .SeleniumText{
-  font-size: 100%
+  /* font-size: 100% */
 }
 .myimage{
   /* width: 60%; */
@@ -141,11 +142,11 @@ padding: 20px 0 0;
 }
 
 .ToscaText{
-  font-size: 100%
+  /* font-size: 100% */
 }
 
 .TMText{
-  font-size: 100%
+  /* font-size: 100% */
 }
 .TM{
   /* width: 60%; */
