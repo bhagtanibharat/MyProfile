@@ -18,7 +18,7 @@ h1 {
 }
 h2{
 
-  font-size: 20%
+  font-size: 5%
   /* color: #0b1b1b */
   color: #112929;
 }
@@ -27,6 +27,7 @@ h3{
 font-family: 'Open Sans';
   /* color: #0b1b1b */
   color: #112929;
+  text-align: center
 }
 a{
   /* color: #11999E; */
@@ -95,7 +96,7 @@ p {
 padding: 20px 0 0;
 }
 .intro{
-  width: 30%;
+  width: 35%;
   margin: 50px inherit;
   /* margin: auto; */
 }
