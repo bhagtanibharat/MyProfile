@@ -11,7 +11,7 @@ h1 {
 
   /* margin-top: 50px; */
   /* font-family: 'Sacramento', cursive; */
-  font-size: 150%;
+  font-size: 120%;
   /* font-family: 'Open Sans'; */
   color: #0b1b1b
   /* font-weight: 100px; */
@@ -87,7 +87,7 @@ p {
   /* padding: 50px 0 20px; */
 }
 .middle-container{
-  margin: inherit;
+  /* margin: inherit; */
 }
 
 .bottom-container{
@@ -104,10 +104,14 @@ padding: 20px 0 0;
 .skill-row
 {
   width: 50%;
-  margin: 50px auto;
+  margin: 20px auto;
   text-align: left;
-  line-height: 2;
+  line-height: 1.75;
 
+}
+
+.skill-section{
+  font-size: 100%;
 }
 
 
@@ -132,7 +136,7 @@ padding: 20px 0 0;
 }
 .Selenium{
   width: 30%;
-  height: 25%;
+  height: 45%;
   float: left;
 }
 
@@ -159,12 +163,13 @@ padding: 20px 0 0;
 .Mobile{
 /* float: left; */
 text-align: center;
-margin-left: 150px;
+/* margin-left: 150px; */
 
 }
 
 .Email{
 /* float: right; */
+ margin-left: 40px;
 text-align: center;
 /* position: relative; */
 }
