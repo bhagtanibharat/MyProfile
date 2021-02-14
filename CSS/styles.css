@@ -87,7 +87,7 @@ p {
   /* padding: 50px 0 20px; */
 }
 .middle-container{
-  /* margin: inherit; */
+  margin: inherit;
 }
 
 .bottom-container{
@@ -96,8 +96,8 @@ p {
 padding: 20px 0 0;
 }
 .intro{
-  width: 35%;
-  margin: 50px inherit;
+  width: 25%;
+  margin: 30px inherit;
   /* margin: auto; */
 }
 
@@ -116,35 +116,44 @@ padding: 20px 0 0;
 
 
 
-.Tosca{
-  /* width: 60%; */
-  float: right;
-  width: 30%;
-  height: 10%;
-}
 
 
-.SeleniumText{
-  /* font-size: 100% */
-}
 .myimage{
   /* width: 60%; */
   /* float: left; */
-  width: 12%;
-  height: 12%;
+  width: 9%;
+  height: 9%;
   /* margin-left: 350px; */
 }
-.Selenium{
-  width: 30%;
-  height: 45%;
+
+
+
+.SeleniumImage{
+  width: 17%;
+  height: 17%;
   float: left;
 }
 
-.Tosca{
-  width: 30%;
-  height: 10%;
-  float: right;
+.MobileImage{
+	float: right;
+	 width: 15%;
+  height: 15%;
+  margin-right: 200px;
 }
+.ToscaImage{
+  width: 18%;
+  height: 18%;
+  float: left;
+}
+.TMImage{
+  /* width: 60%; */
+  float: right;
+   margin-right: 120px;
+  width: 20%;
+  height: 20%;
+}
+
+
 
 .ToscaText{
   /* font-size: 100% */
@@ -153,12 +162,13 @@ padding: 20px 0 0;
 .TMText{
   /* font-size: 100% */
 }
-.TM{
-  /* width: 60%; */
-  float: left;
-  width: 35%;
-  height: 30%;
+.SeleniumText{
+  /* font-size: 100% */
 }
+.MobileText{
+  /* font-size: 100%  */
+}
+
 
 .Mobile{
 /* float: left; */
